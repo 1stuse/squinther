@@ -1,0 +1,2 @@
+# squinther
+Definition of squinther
